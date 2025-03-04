@@ -1,0 +1,501 @@
+#,player,nationality,age(today),appearances,assists,penalty kicks,minutes played,minutes per goal,goals per match,goals
+0,1,Masatoshi Matsuda,Centre-Forward,33 (44),171,27,12,13.318',157',0.50,85
+1,2,Yuta Uchino,Centre-Forward,30 (33),217,26,1,13.463',184',0.34,73
+2,3,Gen Nakamura,Attacking Midfield,36 (44),244,50,18,20.084',283',0.29,71
+3,4,Koji Ishihara,Centre-Forward,32,258,33,10,19.243',271',0.28,71
+4,5,Jun Arima,Centre-Forward,27 (32),133,15,13,10.468',156',0.50,67
+5,6,Kiichi Iga,Centre-Forward,29 (38),170,22,0,12.519',193',0.38,65
+6,7,Makoto Kawanishi,Centre-Forward,30 (34),146,24,7,10.054',157',0.44,64
+7,8,Shoma Mizunaga,Centre-Forward,35 (39),164,28,4,12.664',204',0.38,62
+8,9,Kazuki Sakamoto,Centre-Forward,31 (34),170,19,5,11.641',191',0.36,61
+9,10,Shunta Takahashi,Second Striker,24 (35),128,32,1,10.276',171',0.47,60
+10,11,Makoto Nakamura,Centre-Forward,34 (35),303,27,5,19.642',339',0.19,58
+11,12,Sho Gokyu,Centre-Forward,32 (41),109  14   4   7.709'    143'  0.50  54
+12    13         Motoki Fujiwara         Left Winger  30 (31)  201  33  10  13.734'    259'  0.26  53
+13    14            Yuji Unozawa      Centre-Forward  30 (41)   99  28   8   8.792'    169'  0.53  52
+14    15             Reon Kodama      Centre-Forward       29  158  21   5   9.622'    185'  0.33  52
+15    16            Yuki Okazaki      Centre-Forward       27  166  13   3  11.010'    216'  0.31  51
+16    17             Junya Nitta      Centre-Forward  33 (46)  130  13   3   9.269'    185'  0.38  50
+17    18          Ryota Arimitsu      Centre-Forward  31 (43)  121  24  13   9.235'    188'  0.40  49
+18    19             Yuya Tomita       Left Midfield       32  236  27   0  16.704'    348'  0.20  48
+19    20            Shogo Omachi      Centre-Forward  28 (32)  123  19  12   8.822'    188'  0.38  47
+20    21          Shintaro Hirai      Centre-Forward  32 (41)  189  24   1  11.974'    260'  0.24  46
+21    22          Ryota Kuwajima         Left Winger       32  149  19   1  10.311'    229'  0.30  45
+22    23            Shota Suzuki      Centre-Forward  28 (31)  128  22   0   7.414'    169'  0.34  44
+23    24              Jin Shioya       Left Midfield       28  138  10   0  11.128'    253'  0.32  44
+24    25           Yuki Mizutani         Left Winger  30 (31)  188  37   3  14.939'    347'  0.23  43
+25    26      Manabu Wakabayashi      Centre-Forward  38 (45)  210  26   1  12.941'    301'  0.20  43
+26    27       Tatsuya Furuhashi      Second Striker  40 (44)  143  18   4   7.730'    180'  0.30  43
+27    28            Daiki Kagawa             Striker  28 (36)  160  37   0  13.017'    310'  0.26  42
+28    29         Shohei Kiyohara      Right Midfield  26 (37)   90  17   4   7.096'    169'  0.47  42
+29    30          Efrain Rintaro      Centre-Forward  32 (33)  161  13   7   8.462'    201'  0.26  42
+30    31             Goshi Okubo          Right-Back  27 (38)  119   5   9   5.944'    142'  0.35  42
+31    32            Hiroki Maeda      Centre-Forward       30  141   4   3   7.525'    179'  0.30  42
+32    33          Ryosuke Kijima      Second Striker  39 (45)  103  16   7   7.022'    185'  0.37  38
+33    34         Takahiro Kitsui      Centre-Forward  29 (31)  160  12   4   9.804'    258'  0.24  38
+34    35         Hideyuki Ishida             Striker  31 (42)  112   6   5   7.482'    202'  0.33  37
+35    36        Shingo Kinoshita             Striker  27 (37)  156  15   3  10.001'    278'  0.23  36
+36    37            Kodai Suzuki             Striker  29 (43)   82  11   9   6.083'    169'  0.44  36
+37    38           Kota Sugawara      Centre-Forward  30 (39)   90  10   2   6.053'    168'  0.40  36
+38    39             Kazuma Sato  Attacking Midfield  32 (35)  215  19   4  12.516'    358'  0.16  35
+39    40           Daigo Tomioka      Centre-Forward  28 (39)  151  11   3   9.564'    273'  0.23  35
+40    41            Shota Tamura      Centre-Forward       29  117  17   4   9.594'    282'  0.29  34
+41    42     Yoshinori Katsumata      Centre-Forward  35 (39)   78  11   1   6.061'    178'  0.44  34
+42    43         Hiroki Kurimoto  Defensive Midfield  28 (34)  162  44   6  14.315'    434'  0.20  33
+43    44           Tetsuya Kanno      Second Striker       35  254  38   1  18.049'    547'  0.13  33
+44    45              Kai Harada      Centre-Forward  31 (34)  138  22   1   5.572'    169'  0.24  33
+45    46             Tomoki Hino      Centre-Forward  26 (27)   90   3   0   4.912'    149'  0.37  33
+46    47          Shinichi Mukai  Attacking Midfield  36 (39)  220  59   5  16.812'    525'  0.15  32
+47    48                Rui Tone       Left Midfield  29 (31)  196  26   0  13.054'    408'  0.16  32
+48    49      Toshihiko Uchiyama      Centre-Forward  31 (35)  153  15   4  12.602'    394'  0.21  32
+49    50    Kiyohiro Hirabayashi        Right Winger  30 (40)  115   7   1   8.723'    273'  0.28  32
+50    51           Sachio Hamada      Centre-Forward  27 (30)  121   5   0   5.314'    166'  0.26  32
+51    52             Yuya Suzuki  Defensive Midfield       33  334  24   0  29.504'    952'  0.09  31
+52    53          Keiichi Kubota      Centre-Forward  28 (40)  144  16   2   9.040'    292'  0.22  31
+53    54           Kazuki Ganaha      Centre-Forward       44  102  11   3   7.435'    240'  0.30  31
+54    55          Tatsuya Sekino      Centre-Forward  27 (38)  115   6   2   8.732'    282'  0.27  31
+55    56          Tetsuya Kijima      Second Striker  30 (41)   88   4   7   5.490'    177'  0.35  31
+56    57           Ryuta Hosokai      Right Midfield  31 (37)  239  30   3  16.245'    542'  0.13  30
+57    58         Makoto Nakasuji      Centre-Forward  30 (37)  146   7   4   5.787'    193'  0.21  30
+58    59       Junichiro Shibata      Right Midfield  35 (42)  173  38   1  11.417'    394'  0.17  29
+59    60         Yasuki Ishidate  Attacking Midfield  29 (40)  121  15   5   8.212'    283'  0.24  29
+60    61        Hiroshi Ichihara         Left Winger  30 (37)  147  11   4   9.949'    343'  0.20  29
+61    62           Tatsuma Sakai      Centre-Forward  26 (28)   69  10   1   5.270'    182'  0.42  29
+62    63          Toshiki Sasaki      Right Midfield       30  170  37   1  12.699'    454'  0.16  28
+63    64           Takahito Seta  Defensive Midfield  32 (39)  313  21   0  27.639'    987'  0.09  28
+64    65          Yuki Matsumoto      Second Striker  29 (36)  134  16   5   8.865'    317'  0.21  28
+65    66         Izumi Sawaguchi      Centre-Forward  29 (38)  157  12   2   8.385'    299'  0.18  28
+66    67          Shogo Fujimaki      Centre-Forward  30 (35)   98   9   0   6.992'    250'  0.29  28
+67    68            Yuya Torikai          Right-Back  26 (36)  176  20   2  10.878'    403'  0.15  27
+68    69          Kosuke Fujioka      Centre-Forward  26 (30)  139  20   5  10.874'    403'  0.19  27
+69    70          Seiya Murakami  Attacking Midfield  27 (34)  139  19   7   9.365'    347'  0.19  27
+70    71        Takaki Fukumitsu      Right Midfield       32  108  18   4   8.398'    311'  0.25  27
+71    72          Shogo Shiozawa      Centre-Forward  29 (42)   67   9   1   3.912'    145'  0.40  27
+72    73       Yatsunori Shimaya  Attacking Midfield  25 (36)   77   9   1   6.111'    235'  0.34  26
+73    74         Tatsuki Kishita             Striker  33 (41)  169   8   0   9.456'    364'  0.15  26
+74    75         Taichi Nakamura  Attacking Midfield  25 (32)   78   7   4   5.990'    230'  0.33  26
+75    76           Jumpei Murata      Centre-Forward  34 (42)  168   6   0   7.260'    279'  0.15  26
+76    77        Shusuke Sakamoto         Centre-Back  29 (31)   98   4   0   7.827'    301'  0.27  26
+77    78          Himan Morimoto      Centre-Forward       27   73   2   0   3.109'    120'  0.36  26
+78    79              Hamed Koné  Attacking Midfield  22 (37)   78  13   2   5.190'    208'  0.32  25
+79    80             Tomoki Mera      Centre-Forward  29 (32)  157   8   3  10.333'    413'  0.16  25
+80    81               Yuya Sano    Central Midfield  35 (42)  152  32   9  12.770'    532'  0.16  24
+81    82            Tomoya Osawa         Left Winger  29 (40)  174  27   0  11.409'    475'  0.14  24
+82    83                   Allan         Centre-Back  24 (35)  127  15   0   6.517'    272'  0.19  24
+83    84          Kenta Kawanaka      Centre-Forward       27  104  12   0   7.594'    316'  0.23  24
+84    85        Yasumasa Nishino      Centre-Forward  31 (42)   85  12   3   7.191'    300'  0.28  24
+85    86         Minoru Ichikawa             Striker  28 (36)  115  10   1   8.032'    335'  0.21  24
+86    87            Junki Yokono      Centre-Forward  32 (35)  110  10   0   6.795'    283'  0.22  24
+87    88        Kazuki Matsumoto  Defensive Midfield       31  231   8   0  18.490'    770'  0.10  24
+88    89           Takeshi Handa    Central Midfield  28 (39)  112  24   0   8.133'    354'  0.21  23
+89    90          Hiroumi Kakura      Second Striker  31 (32)  126  19   0   6.616'    288'  0.18  23
+90    91               Yuki Sato    Central Midfield  33 (36)  127  12   1   9.201'    400'  0.18  23
+91    92         Hideyuki Takeya             Striker  33 (45)  120  12   0   3.892'    169'  0.19  23
+92    93      Yasutaka Kobayashi      Centre-Forward  33 (44)   46   7   0   3.548'    154'  0.50  23
+93    94        Noriaki Fujimoto      Centre-Forward  26 (35)   93   6   0   5.396'    235'  0.25  23
+94    95        Kazuhisa Hamaoka          Midfielder  35 (43)  176  42   2  15.215'    692'  0.13  22
+95    96            Yuta Akimoto  Attacking Midfield       32  167  25   2   8.762'    398'  0.13  22
+96    97       Shohei Yanagizaki  Attacking Midfield  31 (40)  152  16   1  12.780'    581'  0.14  22
+97    98        Satoshi Sunomata  Attacking Midfield  31 (35)  125  16   0   9.744'    443'  0.18  22
+98    99            Naoki Tanaka        Right Winger  29 (31)  117  14   1   7.033'    320'  0.19  22
+99   100            Junya Kitano      Centre-Forward  33 (35)  122  10   7   7.373'    335'  0.18  22
+100  101          Hideki Matsuda        Right Winger  30 (43)  111   9   3   8.226'    374'  0.20  22
+101  102            Kaito Miyake        Right Winger       27   65   8   2   5.167'    235'  0.34  22
+102  103         Marcus Vinicius  Attacking Midfield  25 (50)   22   6   2   1.617'     74'  1.00  22
+103  104              Kengo Kubo      Centre-Forward  25 (30)   73   2   2   3.616'    164'  0.30  22
+104  105        Satoshi Yokoyama             Striker  30 (44)   86   1   3   5.017'    228'  0.26  22
+105  106            Keita Sogabe  Attacking Midfield  31 (36)  128  20   2   9.134'    435'  0.16  21
+106  107              Kosuke Ota         Centre-Back  38 (42)  201  19   3  16.737'    797'  0.10  21
+107  108          Taku Kikushima      Centre-Forward  30 (31)  127  18   1   7.718'    368'  0.17  21
+108  109             Naoya Oyama    Central Midfield  30 (33)  210  16   0  15.426'    735'  0.10  21
+109  110              Go Togashi      Centre-Forward  28 (40)  132   8   2   5.767'    275'  0.16  21
+110  111       Toshitaka Tsurumi  Attacking Midfield  29 (38)  103   7   0   7.660'    365'  0.20  21
+111  112              Koya Tanio      Centre-Forward  30 (32)   71   7   1   4.744'    226'  0.30  21
+112  113        Kazuhito Kishida      Centre-Forward  24 (34)   36   7   6   2.353'    112'  0.58  21
+113  114          Kaima Akahoshi      Centre-Forward  25 (28)   74   5   0   4.357'    207'  0.28  21
+114  115            Yusuke Maeda  Defensive Midfield  27 (40)  107  25   4   9.261'    463'  0.19  20
+115  116          Hiroshi Otsuki          Midfielder  34 (44)  184  18   3  14.190'    710'  0.11  20
+116  117             Naoki Sanda      Right Midfield  26 (32)   85  14   3   7.078'    354'  0.24  20
+117  118       Takahiro Urashima         Centre-Back  35 (36)  264  10   0  21.342'  1.067'  0.08  20
+118  119     Yoshiteru Yamashita      Centre-Forward  33 (47)   94  10   5   6.945'    347'  0.21  20
+119  120               Yuki Muto      Second Striker  21 (36)   43  10   0   3.007'    150'  0.47  20
+120  121             Masao Tsuji      Centre-Forward  25 (37)   26   7   0   2.272'    114'  0.77  20
+121  122            Ryuki Kozawa        Right Winger  23 (36)   76   6   2   3.258'    163'  0.26  20
+122  123         Ryohei Suwazono    Central Midfield  34 (37)  309  38   7  27.032'  1.423'  0.06  19
+123  124          Masahiro Ikeda    Central Midfield  34 (43)  104  26   4   7.893'    415'  0.18  19
+124  125              Yusuke Ono  Attacking Midfield  30 (35)  155  20   1  10.387'    547'  0.12  19
+125  126         Daisuke Kanzaki        Right Winger  27 (39)  101  19   1   8.062'    424'  0.19  19
+126  127           Kosuke Sawano      Centre-Forward       31  123  17   2   7.247'    381'  0.15  19
+127  128      Nobuhito Takahashi    Central Midfield  28 (41)  119  16   0   9.813'    516'  0.16  19
+128  129           Kensuke Terao      Right Midfield       26  177  14   0  12.282'    646'  0.11  19
+129  130       Takayuki Funayama      Second Striker  36 (37)   73  14   5   5.753'    303'  0.26  19
+130  131        Nobumitsu Yamane  Attacking Midfield  33 (45)  139  12   2  11.483'    604'  0.14  19
+131  132         Masahiko Sugita  Attacking Midfield  24 (29)   49  11   0   4.006'    211'  0.39  19
+132  133          Daigo Furukawa      Centre-Forward  22 (25)   58   8   0   3.940'    207'  0.33  19
+133  134       Hiroaki Takahashi            Defender  31 (41)  201   7   0  17.106'    900'  0.09  19
+134  135       Masaomi Kimotsuki         Centre-Back  29 (35)  151   5   0  11.564'    609'  0.13  19
+135  136           Tatsuya Saito      Second Striker  28 (35)  120   4   3   8.062'    424'  0.16  19
+136  137           Koki Takenaka      Centre-Forward  25 (32)   39   3   1   3.138'    165'  0.49  19
+137  138         Kazuho Yamasaki      Right Midfield       29  147  12   0   8.575'    476'  0.12  18
+138  139              Yuki Miyao         Left Winger  28 (38)  135  11   2   8.073'    449'  0.13  18
+139  140               Yu Kijima      Second Striker  32 (38)   91  10   4   6.623'    368'  0.20  18
+140  141            Shogo Matsuo      Centre-Forward  25 (37)   83  10   2   5.213'    290'  0.22  18
+141  142              Daiya Tono      Second Striker  20 (25)   62  10   3   3.056'    170'  0.29  18
+142  143             Hayato Mine         Left Winger       32   56  10   3   4.499'    250'  0.32  18
+143  144            Kohei Kiyama  Defensive Midfield  23 (36)   48  10   3   4.150'    231'  0.38  18
+144  145        Daichi Kobayashi           Left-Back       29  160   9   4  10.481'    582'  0.11  18
+145  146          Hiroshi Harada             Striker  29 (39)  138   7   0   9.680'    538'  0.13  18
+146  147         Yasuhiro Tanaka      Centre-Forward  24 (36)  103   6   0   5.679'    316'  0.17  18
+147  148            Koki Taguchi      Centre-Forward       31   95   6   1   2.744'    152'  0.19  18
+148  149        Tomoyuki Yoshino  Defensive Midfield  30 (44)   80   6   0   6.578'    365'  0.23  18
+149  150             Yuya Yamada      Centre-Forward  27 (36)   48   6   3   3.154'    175'  0.38  18
+150  151          Takayuki Fujii      Centre-Forward  26 (31)   74   5   0   5.146'    286'  0.24  18
+151  152           Tamon Machida             Striker  28 (42)   41   5   0   2.664'    148'  0.44  18
+152  153             Yosuke Ueno      Centre-Forward       26   84   4   0   3.610'    201'  0.21  18
+153  154             Kenji Arima             Striker  27 (52)   25   4   0   1.846'    103'  0.72  18
+154  155          Keisuke Haraga          Midfielder  25 (40)   53   2   4   3.632'    202'  0.34  18
+155  156            Jumpei Obata    Central Midfield  34 (36)  253  31   0  19.130'  1.125'  0.07  17
+156  157        Shunsuke Hayashi          Midfielder  31 (39)  247  24   0  20.101'  1.182'  0.07  17
+157  158            Kenta Furube       Left Midfield  26 (39)   89  18   2   6.859'    403'  0.19  17
+158  159        Taisuke Matsugae      Right Midfield  29 (42)  127  13   0  10.059'    592'  0.13  17
+159  160            Yuma Tsubata      Centre-Forward  30 (35)  116  11   1   7.278'    428'  0.15  17
+160  161            Koya Iwasaki          Midfielder  26 (35)   85  10   3   5.044'    297'  0.20  17
+161  162         Kiyoto Nakajima             Striker  24 (37)   80  10   0   5.010'    295'  0.21  17
+162  163           Hyon-ju Ryang      Centre-Forward       26   71   9   0   2.845'    167'  0.24  17
+163  164          Ryota Nakamura      Centre-Forward  25 (34)   55   9   0   3.953'    233'  0.31  17
+164  165       Daisuke Machinaka             Striker  29 (45)   44   6   3   2.632'    155'  0.39  17
+165  166        Mitsuru Hasegawa      Centre-Forward  29 (45)   32   4   0   2.408'    142'  0.53  17
+166  167             Yuta Murase  Defensive Midfield  34 (35)  204  26   0  14.638'    915'  0.08  16
+167  168          Daisuke Kurosu      Centre-Forward  25 (33)   80  17   1   5.343'    334'  0.20  16
+168  169             Shota Koide        Right Winger  36 (43)  105  16   1   6.192'    387'  0.15  16
+169  170         Kosuke Kuninaka  Defensive Midfield  31 (43)  153  14   0  12.569'    786'  0.10  16
+170  171             Yusuke Sato       Left Midfield  31 (47)   30  11   7   2.625'    164'  0.53  16
+171  172          Keitaro Suzuki      Right Midfield       27  104   9   0   4.906'    307'  0.15  16
+172  173      Yasuhiro Yamakoshi      Centre-Forward  28 (39)   79   7   1   3.360'    210'  0.20  16
+173  174          Ryota Hayasaka      Right Midfield  24 (39)   58   7   0   3.729'    233'  0.28  16
+174  175           Shotaro Inoue      Centre-Forward       30   81   6   0   3.794'    237'  0.20  16
+175  176            Kohei Kurata          Midfielder  25 (34)   45   6   1   3.615'    226'  0.36  16
+176  177        Tomoyuki Iwamoto         Centre-Back  32 (35)  171   5   0  15.091'    943'  0.09  16
+177  178            Frank Romero      Centre-Forward       37   60   4   1   3.567'    223'  0.27  16
+178  179            Tsubasa Ando      Centre-Forward  23 (28)   28   4   3   1.826'    114'  0.57  16
+179  180          Hayato Asakawa      Centre-Forward  27 (29)   27   4   2   2.229'    139'  0.59  16
+180  181         Tsuyoshi Kaneko        Right Winger  35 (41)  108   3   0   3.877'    242'  0.15  16
+181  182       Hiroshi Fukushima      Centre-Forward  29 (42)   60   3   0   2.971'    186'  0.27  16
+182  183             Shogo Otake      Centre-Forward       24   56   3   3   1.242'     78'  0.29  16
+183  184             Yuya Suzuki       Left Midfield       29  171  18   3  10.446'    696'  0.09  15
+184  185            Yuhi Hayashi        Right Winger  26 (27)   96  15   2   6.621'    441'  0.16  15
+185  186         Yudai Nakashima      Centre-Forward  30 (40)  123   9   4   8.506'    567'  0.12  15
+186  187      Masahiro Yamamichi    Central Midfield  27 (38)  107   9   0   7.567'    504'  0.14  15
+187  188        Yosuke Kobayashi             Striker  30 (41)   85   8   2   5.458'    364'  0.18  15
+188  189           Keisuke Shuto             Striker  30 (40)  115   7   2   5.591'    373'  0.13  15
+189  190           Keisuke Honda  Attacking Midfield  30 (33)  160   6   0  11.014'    734'  0.09  15
+190  191        Daisuke Miyakawa      Centre-Forward  30 (45)   53   6   0   3.649'    243'  0.28  15
+191  192        Satoshi Nakayama      Centre-Forward  32 (43)   51   6   2   3.836'    256'  0.29  15
+192  193             Koji Suzuki      Centre-Forward  24 (35)   32   6   4   2.605'    174'  0.47  15
+193  194      Hidemasa Kobayashi             Striker  22 (30)   70   5   0   5.551'    370'  0.21  15
+194  195          Tatsuhiko Kubo      Centre-Forward  35 (48)   49   5   2   3.511'    234'  0.31  15
+195  196        Leonardo Moreira      Centre-Forward  34 (38)   80   3   3   4.277'    285'  0.19  15
+196  197                    Alan             Striker  30 (41)   64   3   1   4.358'    291'  0.23  15
+197  198             Taira Shige       Left Midfield  23 (31)   25   3   0   2.086'    139'  0.60  15
+198  199             Kakeru Aoto      Centre-Forward       28   27   2   1   2.137'    142'  0.56  15
+199  200       Masafumi Yonekura      Centre-Forward  27 (41)   60   1   0   2.151'    143'  0.25  15
+200  201        Kokoro Kobayashi      Centre-Forward       24   53   0   5   2.192'    146'  0.28  15
+201  202         Yoshifumi Otaki  Attacking Midfield  31 (39)  184  45   0  12.999'    929'  0.08  14
+202  203           Masaru Hidaka           Left-Back  26 (29)  109  22   1   8.577'    613'  0.13  14
+203  204           Yoshiki Nakai          Midfielder  32 (42)  169  21   1  10.459'    747'  0.08  14
+204  205            Nozomi Nishi          Midfielder  29 (41)  132  18   3  10.323'    737'  0.11  14
+205  206                 Juninho       Left Midfield  23 (30)   79  16   4   5.458'    390'  0.18  14
+206  207           Taishi Kusaka             Striker  31 (40)   95  14   5   8.258'    590'  0.15  14
+207  208            Shinya Sugai    Central Midfield  28 (33)  152  13   1  11.992'    857'  0.09  14
+208  209            Akio Yoshida  Attacking Midfield  26 (38)   83  12   0   7.167'    512'  0.17  14
+209  210         Kenta Murakoshi       Left Midfield       27   77  11   3   5.097'    364'  0.18  14
+210  211              Junki Endo         Left Winger  27 (30)   68  10   1   4.827'    345'  0.21  14
+211  212              So Kataoka  Attacking Midfield  30 (32)   88   8   0   6.249'    446'  0.16  14
+212  213           Yosuke Miyaji  Defensive Midfield  32 (37)  149   7   0  11.872'    848'  0.09  14
+213  214        Noriaki Sanenobu  Attacking Midfield  30 (44)   93   7   5   6.615'    473'  0.15  14
+214  215           Hideo Okamoto      Second Striker  30 (41)   70   7   0   4.892'    349'  0.20  14
+215  216             Kenzo Nambu  Attacking Midfield  26 (32)   74   6   2   4.482'    320'  0.19  14
+216  217              Yuki Miura        Right Winger  28 (30)  115   5   1   7.025'    502'  0.12  14
+217  218           Yasukazu Seri      Centre-Forward  28 (35)   92   5   0   5.295'    378'  0.15  14
+218  219         Ryuki Yamaguchi        Right Winger       24   55   4   0   4.069'    291'  0.25  14
+219  220         Hayato Kawabata      Right Midfield       27   99   3   4   4.637'    331'  0.14  14
+220  221           Reo Takeshita      Centre-Forward       29   73   3   2   3.736'    267'  0.19  14
+221  222        Yutaka Takahashi      Centre-Forward  33 (44)   12   3   1   1.010'     72'  1.17  14
+222  223         Kohei Matsumoto      Centre-Forward  27 (30)   53   2   1   2.965'    212'  0.26  14
+223  224           Takuya Hitomi      Centre-Forward  26 (27)   27   2   1   2.230'    159'  0.52  14
+224  225        Keisuke Kumazawa         Centre-Back  30 (35)  159   1   1  13.832'    988'  0.09  14
+225  226       Takahiro Tsuchiya  Defensive Midfield  35 (41)  239  26   1  15.827'  1.217'  0.05  13
+226  227           Keisuke Iwata    Central Midfield  34 (38)  313  24   0  26.761'  2.059'  0.04  13
+227  228      Yuichiro Yamashita          Midfielder  30 (40)  141  21   1  11.013'    847'  0.09  13
+228  229         Kazuya Sunamori           Left-Back  25 (34)   79  13   0   6.108'    470'  0.16  13
+229  230           Yukihiko Sato  Attacking Midfield  36 (48)   98  11   1   3.548'    273'  0.13  13
+230  231         Kenichi Yoshiki          Midfielder  31 (40)  171  10   1  15.004'  1.154'  0.08  13
+231  232           Yamato Tanaka      Right Midfield  26 (27)  106  10   0   6.256'    481'  0.12  13
+232  233           Ryota Noguchi           Left-Back  34 (38)  149   9   0  12.615'    970'  0.09  13
+233  234            Daisuke Eiro       Left Midfield  33 (37)  126   9   0   5.199'    400'  0.10  13
+234  235            Dragan Dimic      Centre-Forward  30 (43)   32   9   1   2.622'    202'  0.41  13
+235  236           Koji Sakamoto             Striker  27 (37)   79   8   1   5.443'    419'  0.16  13
+236  237           Hiroki Bandai      Centre-Forward  35 (38)   61   8   0   3.399'    261'  0.21  13
+237  238              Yutaro Abe      Centre-Forward  26 (40)   54   8   2   3.921'    302'  0.24  13
+238  239       Hiroyasu Shikaura      Centre-Forward  29 (35)   71   6   0   3.287'    253'  0.18  13
+239  240          Shimpei Yamada      Centre-Forward       25   62   6   0   2.640'    203'  0.21  13
+240  241                Sho Aota             Striker  27 (38)   55   5   0   3.748'    288'  0.24  13
+241  242              Yuki Ikeya  Attacking Midfield       29   79   4   2   5.078'    391'  0.16  13
+242  243             Yuki Ishida      Centre-Forward  32 (44)   50   4   0   2.941'    226'  0.26  13
+243  244         Atsushi Yoshida        Right Winger       25   35   4   2   1.607'    124'  0.37  13
+244  245     Kazuhide Fukugasako         Centre-Back  27 (32)  131   3   0  11.569'    890'  0.10  13
+245  246            Daiji Oguchi      Centre-Forward       29  113   3   0   5.120'    394'  0.12  13
+246  247         Daisuke Shimizu         Centre-Back  27 (32)  106   2   0   9.416'    724'  0.12  13
+247  248             Yuta Yamada      Centre-Forward  31 (32)   58   2   1   4.485'    345'  0.22  13
+248  249           Kenta Ogihara         Centre-Back  31 (34)  215  34   0  19.208'  1.601'  0.06  12
+249  250           Shinya Hatate           Left-Back  29 (41)  149  28   1  13.158'  1.097'  0.08  12
+250  251           Masahito Endo  Defensive Midfield  28 (38)  136  26   0  10.310'    859'  0.09  12
+251  252          Yuta Hachinohe         Centre-Back       29  129  19   0  10.546'    879'  0.09  12
+252  253             Rikuto Kubo        Right Winger  25 (28)   93  16   0   6.659'    555'  0.13  12
+253  254          Yasunao Makino            Defender  28 (39)  157  15   0  12.447'  1.037'  0.08  12
+254  255              Kazuya Ito          Midfielder  26 (38)   85  14   0   4.922'    410'  0.14  12
+255  256           Takumi Nakano    Central Midfield       29  122  12   0   7.578'    632'  0.10  12
+256  257          Koji Nishimura         Left Winger  31 (33)  111  12   0   7.656'    638'  0.11  12
+257  258     Shinnosuke Morihara       Left Midfield  31 (37)  141  11   1   8.753'    729'  0.09  12
+258  259              Kazuki Ito      Centre-Forward  26 (37)  101  10   2   5.554'    463'  0.12  12
+259  260         Tomoya Takahata       Left Midfield  27 (30)   87  10   1   5.499'    458'  0.14  12
+260  261        Yasuhiro Okuyama          Right-Back  34 (39)  164   9   1  12.859'  1.072'  0.07  12
+261  262              Ryogo Kamo    Central Midfield  29 (30)  150   9   1  10.255'    855'  0.08  12
+262  263        Masahide Hiraoka        Right Winger       29   71   9   0   3.396'    283'  0.17  12
+263  264         Takafumi Suzuki      Right Midfield  24 (37)   49   9   0   3.558'    297'  0.24  12
+264  265           Daisuke Asahi  Attacking Midfield  28 (44)   37   9   0   3.035'    253'  0.32  12
+265  266                Ryo Sato      Right Midfield  24 (27)   32   9   1   2.644'    220'  0.38  12
+266  267          Tsubasa Sasaki      Right Midfield  27 (30)  111   8   2   7.125'    594'  0.11  12
+267  268        Yusuke Tanahashi      Right Midfield  26 (37)   55   8   0   3.697'    308'  0.22  12
+268  269             Shogo Sakai      Centre-Forward  34 (37)   84   7   0   2.781'    232'  0.14  12
+269  270      Takahisa Nishiyama       Left Midfield  28 (39)   60   7   2   3.836'    320'  0.20  12
+270  271              Yuki Osawa         Centre-Back  30 (41)  147   6   0  12.877'  1.073'  0.08  12
+271  272           Daiki Enomoto         Left Winger       28   73   6   2   5.500'    458'  0.16  12
+272  273          Kosuke Matsuda         Centre-Back  27 (38)   58   6   1   3.918'    327'  0.21  12
+273  274         Tsubasa Haraoka       Left Midfield  22 (27)   55   6   1   3.649'    304'  0.22  12
+274  275         Hirokazu Otsubo             Striker  30 (45)   67   5   0   4.214'    351'  0.18  12
+275  276           Yuya Nakamura  Attacking Midfield  25 (37)   57   5   0   3.005'    250'  0.21  12
+276  277          Yuta Nishimura      Centre-Forward  30 (31)  100   4   1   6.189'    516'  0.12  12
+277  278           Hideki Kirita  Defensive Midfield  34 (44)  123   2   0   4.591'    383'  0.10  12
+278  279           Takuma Sonoda      Centre-Forward  23 (31)   30   2   0   2.242'    187'  0.40  12
+279  280        Mitsunori Yabuta      Second Striker  23 (48)   23   2   0   2.073'    173'  0.52  12
+280  281        Shunsuke Tachino           Left-Back  29 (31)  157  23   0  11.829'  1.075'  0.07  11
+281  282             Naoki Ikeda          Right-Back  29 (30)  200  21   0  17.809'  1.619'  0.06  11
+282  283        Yoshihiko Etsuda          Midfielder  32 (40)  213  18   3  16.071'  1.461'  0.05  11
+283  284          Masafumi Miura         Centre-Back       32  184  15   0  13.123'  1.193'  0.06  11
+284  285               Jun Usami       Left Midfield  33 (38)  113  11   0   6.790'    617'  0.10  11
+285  286          Tatsuya Sugita       Left Midfield       25   87  11   0   5.519'    502'  0.13  11
+286  287               Ryo Sakai          Midfielder  34 (47)   80  11   0   5.650'    514'  0.14  11
+287  288             Hibiki Wada      Centre-Forward  24 (25)   78  11   0   4.332'    394'  0.14  11
+288  289               Yuya Onoe           Left-Back  27 (39)   76  11   1   5.532'    503'  0.14  11
+289  290          Hiroaki Tajima             Striker  26 (50)   20  11   1   1.319'    120'  0.55  11
+290  291             Yushi Akiba  Defensive Midfield       39  159   9   1  12.049'  1.095'  0.07  11
+291  292            Takumi Okabe         Centre-Back  28 (29)  150   9   0  10.204'    928'  0.07  11
+292  293          Genta Umiguchi    Central Midfield  27 (28)  128   9   0   9.066'    824'  0.09  11
+293  294            Taisuke Tose      Centre-Forward  30 (31)  106   9   0   5.008'    455'  0.10  11
+294  295            Hiroki Ogawa    Central Midfield  20 (27)   56   8   4   4.124'    375'  0.20  11
+295  296         Sotaro Yamamoto    Central Midfield  26 (28)   98   7   0   7.519'    684'  0.11  11
+296  297         Takanori Hatano          Midfielder  23 (30)   91   7   1   6.960'    633'  0.12  11
+297  298              Kei Nakano           Left-Back  31 (37)  123   6   0  10.112'    919'  0.09  11
+298  299             Kenta Moroe         Centre-Back  29 (40)  117   6   0  10.447'    950'  0.09  11
+299  300             Emeka Basil      Centre-Forward  23 (24)   71   6   2   2.589'    235'  0.15  11
+300  301            Tomohiro Ito             Striker  34 (50)   50   6   0   3.560'    324'  0.22  11
+301  302         Hidenori Tabata             Striker  29 (54)   25   6   1   2.155'    196'  0.44  11
+302  303         Yoshikimi Nagao      Centre-Forward  29 (32)   72   5   0   4.472'    407'  0.15  11
+303  304          Yusuke Imamura      Centre-Forward  26 (27)   50   5   0   2.318'    211'  0.22  11
+304  305           Hong-yeon Kim      Centre-Forward  29 (34)   54   4   0   2.962'    269'  0.20  11
+305  306          Tsuneyuki Ueda         Centre-Back  34 (39)  247   3   0  20.482'  1.862'  0.04  11
+306  307         Masafumi Miyagi         Centre-Back  33 (34)   67   3   0   5.674'    516'  0.16  11
+307  308           Hiroshi Ogawa            Defender  26 (39)  107   2   0   9.256'    841'  0.10  11
+308  309          Hiroyasu Ibata          Midfielder  25 (50)   14   2   2   1.129'    103'  0.79  11
+309  310  Samuel Abiodun Saanumi      Centre-Forward  28 (33)   48   1   0   1.764'    160'  0.23  11
+310  311         Takumi Fujiwara        Right Winger       26   41   1   0   1.841'    167'  0.27  11
+311  312            Keita Takami  Attacking Midfield  30 (31)  105   0   1   6.575'    598'  0.10  11
+312  313          Kenta Yamafuji  Defensive Midfield  35 (38)  202  18   1  15.159'  1.516'  0.05  10
+313  314            Naoki Hatada  Defensive Midfield  23 (34)   62  16   0   4.741'    474'  0.16  10
+314  315           Daisuke Hoshi          Midfielder  31 (44)   43  14   2   2.478'    248'  0.23  10
+315  316      Kazuhiro Yoshimura          Midfielder  32 (45)  102  12   0   4.136'    414'  0.10  10
+316  317              Akira Akao  Defensive Midfield  27 (36)   51  11   0   4.194'    419'  0.20  10
+317  318           Kazuhiro Sato  Defensive Midfield  23 (34)   30  11   0   2.411'    241'  0.33  10
+318  319          Daiki Ikematsu         Centre-Back       29  118  10   0   8.648'    865'  0.08  10
+319  320              Junya Kuno      Centre-Forward  29 (36)   74  10   0   4.574'    457'  0.14  10
+320  321            Daiki Koyama          Right-Back  36 (44)  234   9   0  19.785'  1.979'  0.04  10
+321  322          Yeong-cheol Jo         Left Winger  32 (35)   26   9   1   2.115'    212'  0.38  10
+322  323            Wataru Inoue    Central Midfield  29 (38)   73   7   0   3.916'    392'  0.14  10
+323  324       Tomomasa Horikawa         Left Winger  25 (33)   44   7   1   2.115'    212'  0.23  10
+324  325          Shigeru Suzuki             Striker  22 (48)   24   7   0   1.900'    190'  0.42  10
+325  326        Yasuhiko Niimura      Centre-Forward  29 (54)   23   7   1   2.136'    214'  0.43  10
+326  327         Tappei Kawanami          Right-Back       27  100   6   0   6.844'    684'  0.10  10
+327  328              Jun Suzuki        Right Winger  32 (37)   66   6   0   2.502'    250'  0.15  10
+328  329              Yuki Ogaki      Second Striker       24   57   5   0   3.375'    338'  0.18  10
+329  330        Takumi Hashimoto           Left-Back  24 (36)   50   5   0   3.792'    379'  0.20  10
+330  331             Soya Tandai      Centre-Forward  25 (30)   49   5   0   1.540'    154'  0.20  10
+331  332                Aoi Sato  Attacking Midfield  24 (27)   38   5   0   2.892'    289'  0.26  10
+332  333          Kento Yabuuchi  Attacking Midfield  28 (30)   94   4   1   6.354'    635'  0.11  10
+333  334             Riku Suzuki      Second Striker       25   78   4   0   2.955'    296'  0.13  10
+334  335             Masaya Yuma      Centre-Forward  29 (31)   76   4   1   3.989'    399'  0.13  10
+335  336            Daiki Kawato      Right Midfield       30   54   4   0   3.389'    339'  0.19  10
+336  337           Koyu Murakami      Centre-Forward       26   52   4   0   3.519'    352'  0.19  10
+337  338           Yuya Takazawa      Centre-Forward  20 (27)   37   4   1   2.173'    217'  0.27  10
+338  339         Ranjiro Machida    Central Midfield       28  113   3   0   6.970'    697'  0.09  10
+339  340             Hayato Higa         Centre-Back  31 (38)  111   3   0   9.621'    962'  0.09  10
+340  341        Takehiro Hayashi             Striker  28 (49)   21   3   0   1.672'    167'  0.48  10
+341  342        Takanori Yokochi      Centre-Forward  22 (30)   17   3   1   1.401'    140'  0.59  10
+342  343            Tsubasa Sano      Centre-Forward       30   49   2   0   3.129'    313'  0.20  10
+343  344              Yujiro Abe             Striker  27 (42)   44   2   2   2.390'    239'  0.23  10
+344  345              Talla Ndao      Centre-Forward       25   36   2   0   1.240'    124'  0.28  10
+345  346            Shigeo Onoue             Striker  23 (48)   17   2   1   1.185'    119'  0.59  10
+346  347       Michiaki Kakimoto      Centre-Forward  33 (47)   30   1   3   1.718'    172'  0.33  10
+347  348            Arthur Bessa      Centre-Forward       23   26   1   2   2.047'    205'  0.38  10
+348  349     Dieudonné Minoungou      Centre-Forward  27 (43)   17   1   0   1.135'    114'  0.59  10
+349  350            Ryoya Iizumi         Centre-Back  23 (29)   34   0   0   1.425'    143'  0.29  10
+350  351          Shochi Niiyama  Defensive Midfield  33 (39)  139  33   0  11.729'  1.303'  0.06   9
+351  352         Kodai Nagashima    Central Midfield  25 (27)  114  15   0   6.533'    726'  0.08   9
+352  353           Misaki Uemura  Attacking Midfield  28 (33)   71  15   0   4.586'    510'  0.13   9
+353  354      Shunnosuke Matsuki      Right Midfield  27 (28)   57  13   1   4.261'    473'  0.16   9
+354  355             Yutaka Baba  Defensive Midfield  31 (38)  110  12   1   9.687'  1.076'  0.08   9
+355  356        Takeshi Hasunuma          Midfielder  27 (41)   98  11   0   7.927'    881'  0.09   9
+356  357         Masaru Takeuchi          Midfielder  29 (40)   79  10   0   5.035'    559'  0.11   9
+357  358           Takuya Mizuno      Right Midfield  26 (29)   77   9   0   5.209'    579'  0.12   9
+358  359           Takashi Fujii      Second Striker  27 (38)   75   9   0   4.324'    480'  0.12   9
+359  360          Keita Miyauchi             Striker  27 (33)   73   9   0   2.231'    248'  0.12   9
+360  361            Kyosuke Goto    Central Midfield       32  107   8   0   7.505'    834'  0.08   9
+361  362            Hideki Nagai  Attacking Midfield  42 (54)   97   8   1   4.297'    477'  0.09   9
+362  363       Takanori Kanamori         Centre-Back  37 (39)  349   7   0  30.082'  3.342'  0.03   9
+363  364        Haruhi Terashima         Centre-Back  29 (31)  128   7   2   7.883'    876'  0.07   9
+364  365            Koichi Asato          Midfielder  24 (38)   60   7   0   4.960'    551'  0.15   9
+365  366                  Kerlon  Attacking Midfield  25 (37)   22   7   0   1.557'    173'  0.41   9
+366  367          Kakeru Higuchi  Attacking Midfield       23   73   6   0   5.135'    571'  0.12   9
+367  368      Hidemi Jinushizono      Right Midfield  33 (35)  158   5   0  11.964'  1.329'  0.06   9
+368  369           Yusuke Yamada         Centre-Back  31 (37)  129   5   0  10.523'  1.169'  0.07   9
+369  370           Toshiki Chino  Defensive Midfield  26 (39)  120   5   0  10.457'  1.162'  0.08   9
+370  371         Kazutaka Takano          Midfielder  30 (45)   67   5   0   3.672'    408'  0.13   9
+371  372          Shunsuke Terao       Left Midfield  26 (31)   65   5   0   4.546'    505'  0.14   9
+372  373       Toshiya Yamashita          Midfielder  28 (43)   57   5   5   4.813'    535'  0.16   9
+373  374          Yuhei Nakagawa            Defender  29 (37)  184   4   0  14.865'  1.652'  0.05   9
+374  375            Shun Nogaito           Left-Back       38  144   4   0  10.468'  1.163'  0.06   9
+375  376            Mutsuki Anma          Midfielder  26 (36)   87   4   0   6.234'    693'  0.10   9
+376  377             Masaki Iida         Centre-Back  36 (39)   83   4   0   6.785'    754'  0.11   9
+377  378          Michiho Tamada             Striker  24 (33)   50   4   0   4.177'    464'  0.18   9
+378  379         Hiroto Miyauchi  Attacking Midfield  22 (27)   37   4   1   2.749'    305'  0.24   9
+379  380         Hiroto Iwabuchi      Second Striker  24 (27)   37   4   1   2.177'    242'  0.24   9
+380  381        Noriaki Ishizawa            Defender  25 (39)   68   3   0   5.766'    641'  0.13   9
+381  382          Taiki Yukutake      Centre-Forward       27   51   3   0   1.785'    198'  0.18   9
+382  383              Taiki Kato       Left Midfield  22 (31)   26   3   0   1.886'    210'  0.35   9
+383  384          Tatsuhiro Seta         Centre-Back  29 (41)  162   2   0  13.751'  1.528'  0.06   9
+384  385         Hideki Takayama             Striker  24 (49)   21   2   1     859'     95'  0.43   9
+385  386             Hayato Ueda           Left-Back       26   84   1   0   6.017'    669'  0.11   9
+386  387              Shota Imai          Right-Back  29 (40)   83   1   0   4.959'    551'  0.11   9
+387  388           Taro Hasegawa             Striker  30 (45)   25   1   0   1.690'    188'  0.36   9
+388  389               Ryota Doi      Centre-Forward  24 (37)   25   1   0   1.874'    208'  0.36   9
+389  390          Eiichiro Ozaki          Right-Back  31 (40)  139  33   2  11.737'  1.467'  0.06   8
+390  391         Takafumi Yamada    Central Midfield  27 (32)  138  15   0  12.099'  1.512'  0.06   8
+391  392             Yudai Saito          Right-Back  26 (38)  121  14   0   9.378'  1.172'  0.07   8
+392  393          Kenji Kotobuki          Midfielder  29 (41)  149  13   0  11.886'  1.486'  0.05   8
+393  394        Takumi Matsumoto    Central Midfield  26 (27)  113  12   1   8.400'  1.050'  0.07   8
+394  395            Yuta Mishima  Attacking Midfield  26 (30)   61  12   0   4.506'    563'  0.13   8
+395  396            Taku Tsukada      Centre-Forward  39 (42)   96   9   0   2.539'    317'  0.08   8
+396  397        Akiyuki Hasegawa      Second Striker  27 (29)   75   9   1   4.799'    600'  0.11   8
+397  398           Takahiro Taya          Midfielder  24 (39)   51   9   0   2.712'    339'  0.16   8
+398  399         Takuya Sugiyama          Right-Back  29 (42)  140   8   0  12.388'  1.549'  0.06   8
+399  400         Naoto Sekiguchi       Left Midfield  25 (30)   85   8   0   3.547'    443'  0.09   8
+400  401            Sai Kanakubo      Right Midfield  30 (36)   66   8   4   5.238'    655'  0.12   8
+401  402        Tsuyoshi Shinchu         Left Winger  28 (38)   43   8   1   2.817'    352'  0.19   8
+402  403               Riku Saga          Right-Back  23 (26)   32   8   1   2.807'    351'  0.25   8
+403  404             Takuma Goto  Attacking Midfield       27   30   8   2   2.289'    286'  0.27   8
+404  405          Kyohei Maeyama  Attacking Midfield  25 (37)   78   7   0   4.920'    615'  0.10   8
+405  406            Andréa Blédé    Central Midfield  29 (40)   75   7   0   5.684'    711'  0.11   8
+406  407        Yoshihiro Masuko    Central Midfield  26 (37)   75   7   0   5.793'    724'  0.11   8
+407  408               Yuki Fuji           Left-Back  28 (43)   61   6   0   4.947'    618'  0.13   8
+408  409          Toshiya Tanaka             Striker  28 (35)   50   6   2   3.814'    477'  0.16   8
+409  410            Yuto Tsumura      Centre-Forward       23   47   6   1   2.785'    348'  0.17   8
+410  411          Daisuke Nakano          Midfielder  23 (37)   38   6   6   2.869'    359'  0.21   8
+411  412             Yusaku Ueno      Centre-Forward  35 (51)   28   6   1   2.052'    257'  0.29   8
+412  413        Arashi Tamashiro         Centre-Back  29 (31)  126   5   0   9.382'  1.173'  0.06   8
+413  414        Ryosuke Takayasu          Midfielder  28 (40)   81   5   0   4.749'    594'  0.10   8
+414  415            Kenta Azechi      Centre-Forward  26 (33)   55   5   1   3.973'    497'  0.15   8
+415  416                  Tatico         Centre-Back  28 (44)   38   5   0   1.307'    163'  0.21   8
+416  417           Taro Sugahara      Centre-Forward  32 (43)   95   4   0   3.929'    491'  0.08   8
+417  418         Daiju Kawashima             Striker  28 (42)   76   4   0   1.621'    203'  0.11   8
+418  419            Toshiki Toya      Centre-Forward       27   56   4   0   2.781'    348'  0.14   8
+419  420           Makoto Fujita             Striker  29 (40)   40   4   0   1.703'    213'  0.20   8
+420  421              Koki Ifuku      Centre-Forward  28 (33)   39   4   1   3.044'    381'  0.21   8
+421  422       Hirochika Miyoshi      Centre-Forward  26 (37)   83   3   0   6.156'    770'  0.10   8
+422  423             Ryota Takei          Midfielder  28 (40)   62   3   0   4.147'    518'  0.13   8
+423  424               Rion Taki      Centre-Forward  27 (32)   49   3   0   3.253'    407'  0.16   8
+424  425            Kazuki Saito      Centre-Forward       36   42   3   1   2.973'    372'  0.19   8
+425  426          Takumi Shimada      Centre-Forward  24 (28)   39   3   0   2.024'    253'  0.21   8
+426  427             Pavel Rehak      Centre-Forward  36 (61)   20   3   1   1.409'    176'  0.40   8
+427  428           Tomohiro Sano             Striker  20 (46)   18   3   0   1.258'    157'  0.44   8
+428  429        Ryohei Yoshihama  Attacking Midfield  21 (32)   22   2   2   1.831'    229'  0.36   8
+429  430          Shuya Akamatsu         Centre-Back  30 (31)   57   1   0   3.669'    459'  0.14   8
+430  431             Shoki Hirai      Centre-Forward  33 (37)   56   1   1   3.082'    385'  0.14   8
+431  432            Kazuma Inoue             Striker  23 (35)   54   1   0   2.240'    280'  0.15   8
+432  433            Shota Miyazu      Centre-Forward  22 (29)   33   1   0   1.922'    240'  0.24   8
+433  434             Hyo-il Kang      Centre-Forward  21 (36)   30   1   0   2.282'    285'  0.27   8
+434  435         Makoto Ishimoto          Midfielder  22 (48)   22   1   2   1.771'    221'  0.36   8
+435  436          Masayuki Ishii         Centre-Back  35 (46)  111   0   0   9.898'  1.237'  0.07   8
+436  437          Toshikazu Kato            Defender  29 (43)   50   0   0   4.418'    552'  0.16   8
+437  438           Shu Yoshizawa      Centre-Forward  23 (26)   28   0   1     697'     87'  0.29   8
+438  439        Kyohei Yoshimori  Defensive Midfield       29  191  24   0  12.244'  1.749'  0.04   7
+439  440             Yudai Iwama  Defensive Midfield  37 (38)  172  17   0  14.740'  2.106'  0.04   7
+440  441           Shota Itokazu          Midfielder  31 (40)  175  14   0  13.278'  1.897'  0.04   7
+441  442       Kentaro Takamatsu    Central Midfield  30 (43)   84  11   0   4.929'    704'  0.08   7
+442  443      Shinsaku Mochidome           Left-Back  27 (36)   98  10   0   8.133'  1.162'  0.07   7
+443  444        Yoshitaka Ohashi  Attacking Midfield  30 (41)   93  10   0   8.101'  1.157'  0.08   7
+444  445          Shugo Kawahara  Attacking Midfield  28 (44)   34  10   1   2.950'    421'  0.21   7
+445  446            Kazuya Oguri    Central Midfield       30  175   9   1  11.516'  1.645'  0.04   7
+446  447              Kenji Hada    Central Midfield  31 (43)  118   9   0   8.819'  1.260'  0.06   7
+447  448              Ryo Iizuka  Attacking Midfield  27 (37)   73   9   0   3.850'    550'  0.10   7
+448  449            Ken Hisatomi  Attacking Midfield  23 (34)   55   9   0   4.224'    603'  0.13   7
+449  450         Kento Tsurumaki  Attacking Midfield  24 (37)   34   9   0   2.433'    348'  0.21   7
+450  451             Atsushi Mio       Left Midfield  27 (42)   34   9   0   2.989'    427'  0.21   7
+451  452         Kohei Yoshimura        Right Winger  28 (33)   95   8   0   4.933'    705'  0.07   7
+452  453            Shota Suzuki       Left Midfield       24   57   8   0   3.909'    558'  0.12   7
+453  454         Kotaro Kawasato         Centre-Back  33 (36)  173   7   0  13.837'  1.977'  0.04   7
+454  455              Shun Torii          Right-Back       26   90   7   0   7.568'  1.081'  0.08   7
+455  456            Shota Mizuno      Second Striker  26 (29)   72   7   0   3.391'    484'  0.10   7
+456  457            Genya Sekino    Central Midfield       25   55   7   0   3.570'    510'  0.13   7
+457  458             Kotaro Hara       Left Midfield       24   53   7   0   3.922'    560'  0.13   7
+458  459           Taisei Kawano      Centre-Forward  26 (37)   43   7   0   1.966'    281'  0.16   7
+459  460             Shuri Arita             Striker       25   29   7   0   2.316'    331'  0.24   7
+460  461              Naiki Imai         Centre-Back       27   86   6   0   6.349'    907'  0.08   7
+461  462       Tsubasa Nishimaki    Central Midfield  22 (29)   49   6   0   3.991'    570'  0.14   7
+462  463             Naoya Umeda      Centre-Forward  32 (46)   20   6   0   1.230'    176'  0.35   7
+463  464                Yuki Uno         Centre-Back  30 (40)  183   5   0  15.304'  2.186'  0.04   7
+464  465       Takaaki Tokushige        Right Winger  24 (49)   23   5   2   2.137'    305'  0.30   7
+465  466            Masato Osugi         Centre-Back  36 (41)  196   4   0  15.146'  2.164'  0.04   7
+466  467            Hiroyuki Abe            Defender  33 (45)  122   4   3   9.422'  1.346'  0.06   7
+467  468         Hiroki Sugiyama          Midfielder  31 (39)   65   4   0   4.464'    638'  0.11   7
+468  469          Jun Yanagisawa          Right-Back  29 (37)   48   4   0   2.808'    401'  0.15   7
+469  470            Shota Tanaka             Striker  28 (41)   47   4   1   2.147'    307'  0.15   7
+470  471         Shuta Takahashi             Striker  25 (41)   30   4   0   2.256'    322'  0.23   7
+471  472      Yoshihiro Uchimura      Centre-Forward  35 (40)   27   4   2   1.893'    270'  0.26   7
+472  473            Shinya Hatta         Centre-Back  29 (40)   98   3   0   8.389'  1.198'  0.07   7
+473  474             Shota Saito          Midfielder  26 (35)   80   3   0   4.413'    630'  0.09   7
+474  475           Yuma Kawamori      Centre-Forward  30 (31)   51   3   0   1.769'    253'  0.14   7
+475  476            Keita Tanaka          Right-Back  23 (35)   42   3   0   1.619'    231'  0.17   7
+476  477          Kaina Tanimura      Centre-Forward  23 (26)   30   3   0   1.064'    152'  0.23   7
+477  478       Tatsuya Kobayashi             Striker        ?   18   3   0   1.428'    204'  0.39   7
+478  479              Kento Kato          Midfielder  24 (29)   81   2   0   6.576'    939'  0.09   7
+479  480         Kenshin Iwakiri       Left Midfield       27   78   2   0   3.795'    542'  0.09   7
+480  481         Kohei Taniguchi            Defender  27 (40)   77   2   0   6.866'    981'  0.09   7
+481  482           Tomoki Hidaka          Midfielder  29 (44)   57   2   0   4.014'    573'  0.12   7
+482  483              Junya Goto      Centre-Forward  25 (28)   46   2   1   1.673'    239'  0.15   7
+483  484              Kohei Higa  Attacking Midfield  21 (34)   30   2   3   2.539'    363'  0.23   7
+484  485            Kenta Anraku       Left Midfield  23 (32)   22   2   0   1.730'    247'  0.32   7
+485  486           Takafumi Sudo         Centre-Back  26 (33)  142   1   0  12.616'  1.802'  0.05   7
+486  487           Takeru Fukuda          Midfielder  25 (38)   72   1   0   5.287'    755'  0.10   7
+487  488             Yuki Kawabe         Centre-Back  26 (37)   69   1   0   5.688'    813'  0.10   7
+488  489            Yuta Inagaki      Right Midfield  27 (33)   68   1   0   4.994'    713'  0.10   7
+489  490          Yoshitaka Aoki           Left-Back  25 (26)   56   1   0   4.763'    680'  0.13   7
+490  491            Masaki Saito      Centre-Forward  33 (44)   37   1   2   1.940'    277'  0.19   7
+491  492            Takato Nakai      Centre-Forward       25   26   1   1   1.370'    196'  0.27   7
+492  493         Ryota Kasamatsu            Defender  28 (35)   71   0   0   6.078'    868'  0.10   7
+493  494            Tomoki Okawa         Centre-Back       24   56   0   0   4.402'    629'  0.13   7
+494  495            Eishun Shida         Left Winger       24   56   0   3   3.676'    525'  0.13   7
+495  496           Luiz Fernando      Centre-Forward       27   24   0   1   1.099'    157'  0.29   7
+496  497              Koya Handa      Centre-Forward  25 (26)   19   0   0     979'    140'  0.37   7
+497  498             Yuta Narawa           Left-Back  25 (37)   88  21   0   7.683'  1.281'  0.07   6
+498  499              Kosei Uryu    Central Midfield  28 (29)  113  18   0   9.820'  1.637'  0.05   6
+499  500       Hitoshi Nishimura  Defensive Midfield  28 (29)  175  16   0  13.692'  2.282'  0.03   6
